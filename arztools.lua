@@ -9,7 +9,7 @@ end
 script_name("Arizona Tools")
 script_authors("qsliwq")
 script_version_number(103)
-script_version("1.20 Test Revision")
+script_version("1.21 Test Revision")
 script_url("https://tech.qsliwq.ru")
 script_properties("work-in-pause")
 require("moonloader")
