@@ -1,9 +1,9 @@
 {
-    "latest": 102,
+    "latest": 103,
     "version": "1.20 Test Revision",
     "script_url": "https://pc.az-ins.com/resource/scripts/tools/arizona/arztools.luac",
     "changes": [
-        "ну типа тест",
-        "а тут ниче не добавлено"
+        "тест сука",
+        "я заебался переписывать этот ёбаный код"
     ]
 }
