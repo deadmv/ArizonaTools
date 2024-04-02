@@ -1,9 +1,9 @@
 {
     "latest": 103,
-    "version": "1.20 Test Revision",
+    "version": "1.21 Test Revision",
     "script_url": "https://github.com/deadmv/ArizonaTools/blob/main/arztools.lua?raw=true",
     "changes": [
         "тест сука",
-        "я заебался переписывать этот ёбаный код"
+        "я заебался переписывать этот ёбаный код для системы обновления"
     ]
 }
