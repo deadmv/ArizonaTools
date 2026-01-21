@@ -10,5 +10,9 @@
 	"arizona_mobile": {
 		"status": false,
 		"info": "Технические неполадки"
+	},
+	"docoth": {
+		"status": false,
+		"info": "Технические неполадки"
 	}
 }
