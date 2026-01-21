@@ -1,5 +1,13 @@
 {
-	"docoth": {
+	"arizona_pc": {
+		"status": false,
+		"info": "Технические неполадки"
+	},
+	"rodina_pc": {
+		"status": false,
+		"info": "Ждём арз тулс, а пока пользуйтесь моим :) | Montano Chapman"
+	},
+	"arizona_mobile": {
 		"status": false,
 		"info": "Технические неполадки"
 	}
